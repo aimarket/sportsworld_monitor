@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Active-No-red) ![](https://img.shields.io/badge/Working-No-red)
+
 # sportsworld_monitor
 
 <img src="https://github.com/aimarket/sportsworld_monitor/blob/main/sports_world_logo_360.png?raw=true" alt="slide0" title="Slide0" height="100"/>
