@@ -6,7 +6,12 @@
 
 **Project has been canceled due to low demand**
 
-This bot scrapes the sportsworld165.com website for the latest's in demand fitted hats 
+This bot scrapes the sportsworld165.com website for the latest's in demand fitted hats.
+
+At the time of making the bot I was able to detect a .atom file in the source code [source](https://sportsworld165.com/collections/new-arrivals/fitted.atom) that
+has all the latests releases that would update everyday at [4:00PM PST]() on Wednesday's.
+
+After parseing the list I could make an embed and send it through Discord with a webhook.
 
 example discord notification:
 
